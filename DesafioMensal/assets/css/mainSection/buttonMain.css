@@ -1,0 +1,20 @@
+.buttonMain{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+    background-color: #D6000D;
+    border: 0;
+    padding: 10px 40px;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 45px;
+    transform: scale(1.0);
+    transition: 0.2s;
+}
+.buttonMain:hover{
+    transform: scale(1.1);
+    transform: 0.2s;
+    background-color: red;
+}

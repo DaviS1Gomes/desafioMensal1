@@ -1,0 +1,10 @@
+.titleHeader{
+    color: #D6000D;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    font-style: italic;
+}
+.titleHeader span{
+    color: black;
+}

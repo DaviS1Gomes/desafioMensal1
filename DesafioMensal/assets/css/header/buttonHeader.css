@@ -1,0 +1,19 @@
+.buttonHeader{
+    font-family: 'Roboto', sans-serif;
+    font-size:  30px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    background-color: #D6000D;
+    border: 0;
+    color: white;
+    padding: 10px 75px;
+    border-radius: 15px;
+    margin-left: 20px;
+    transform: scale(1.0);
+    transition: 0.2s;
+}
+.buttonHeader:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}
